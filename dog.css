@@ -1,0 +1,52 @@
+body {
+  background-color: beige
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+div{background-color: grey}
+
+p {
+  font-family: verdana;
+}
+p {outline-color:black;}
+
+p.dotted {outline-style: dotted;}
+p.dashed {outline-style: dashed;}
+p.solid {outline-style: solid;}
+p.double {outline-style: double;}
+p.groove {outline-style: groove;}
+p.ridge {outline-style: ridge;}
+p.inset {outline-style: inset;}
+p.outset {outline-style: outset;}
+
+ul.a {
+  list-style-type: circle;
+}
+
+ul.b {
+  list-style-type: square;
+}
+
+ol.c {
+  list-style-type: upper-roman;
+}
+
+ol.d {
+  list-style-type: lower-alpha;
+}
+
+myclass{
+    color: blue;
+    background:navy;
+
+}
+ #myid{
+     font-size: 0.7;
+     color: beige;
+
+
+ }
