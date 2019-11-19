@@ -59,3 +59,14 @@ myclass{
        float: none;
        width: 100%;
      }
+
+table, th, td {
+  border: 1px solid Lightblue;
+  border-collapse: collapse;
+
+}
+
+form  { display: table;      }
+
+ label { display: table-cell; }
+ input { display: table-cell; }
